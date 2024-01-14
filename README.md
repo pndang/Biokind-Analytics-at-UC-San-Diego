@@ -3,5 +3,5 @@
 
 <br>
 
-<embed src="assets/Biokind_23_Impact_Report.pdf" type="application/pdf" width="100%" height="831">
+<embed src="assets/Biokind_23_Impact_Report.pdf" type="application/pdf" width="100%" height="855">
 
