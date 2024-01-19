@@ -4,10 +4,7 @@
 <br>
 
 1. [Meet the Board!](https://www.canva.com/design/DAF5g0VdtSc/5E7U24FcHINLOpyQNCxAhQ/view?utm_content=DAF5g0VdtSc&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-
-<br>
-
-1. "Check out our 2023-2024 Impact Report below!"
+2. "Check out our 2023-2024 Impact Report below!"
 <embed src="assets/Biokind_23_Impact_Report.pdf" type="application/pdf" width="100%" height="855">
 
 
